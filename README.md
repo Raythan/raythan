@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Raythan Padovani</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img> Oi meu nome é Raythan Padovani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img></h1>
 
 <p align="center">
   <a href="https://github.com/Raythan">
